@@ -1,0 +1,27 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "sn.esp.master2"
+    },
+    "cordova-plugin-contacts": {
+      "PACKAGE_NAME": "sn.esp.master2"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "sn.esp.master2"
+    },
+    "cordova-plugin-device-orientation": {
+      "PACKAGE_NAME": "sn.esp.master2"
+    },
+    "cordova-plugin-device-motion": {
+      "PACKAGE_NAME": "sn.esp.master2"
+    }
+  },
+  "dependent_plugins": {}
+}

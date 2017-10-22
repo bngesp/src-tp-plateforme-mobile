@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "bng.esp.sn"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "bng.esp.sn"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "bng.esp.sn"
+    }
+  },
+  "dependent_plugins": {}
+}
